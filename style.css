@@ -437,3 +437,12 @@ section h2 {
         font-size: 1.1rem;
     }
 }
+
+
+
+
+.gallery-item {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
